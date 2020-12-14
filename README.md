@@ -9,7 +9,7 @@
  |lab1 | [Growth Mindset](https://yazansneneh.github.io/reading-notes/)                                   |
  |lab2 | [The coder's computer](https://yazansneneh.github.io/reading-notes/lab2-read.md)                 |
  |lab3 | [Revisions and the Cloud](https://yazansneneh.github.io/lab3/lab3.md)                            |
- |lab4 | [HTML & CSS design and build websites](https://yazansneneh.github.io/reading-notes/lab3-read.md) |
+ |lab4 | [HTML & CSS design and build websites](https://yazansneneh.github.io/reading-notes/lab4-read.md) |
  
  growth mind
  command line interface
