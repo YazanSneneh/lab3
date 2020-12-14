@@ -1,9 +1,15 @@
-# lab3
+# lab3 Reading notes
 
- this is an intro
+ Here is the table of content for the topics we read during the Bootcamp
  
- table of content
- 4 lines and each line has read
+## table of content
+ 
+ |No   | Title |
+ |-----|------|
+ |lab1 | [Growth Mindset](https://yazansneneh.github.io/reading-notes/)                                   |
+ |lab2 | [The coder's computer](https://yazansneneh.github.io/reading-notes/lab2-read.md)                 |
+ |lab3 | [Revisions and the Cloud](https://yazansneneh.github.io/lab3/lab3.md)                            |
+ |lab4 | [HTML & CSS design and build websites](https://yazansneneh.github.io/reading-notes/lab3-read.md) |
  
  growth mind
  command line interface
